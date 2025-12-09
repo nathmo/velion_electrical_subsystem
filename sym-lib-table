@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "velion")(type "KiCad")(uri "${KIPRJMOD}/symbol/velion.kicad_sym")(options "")(descr ""))
+)
