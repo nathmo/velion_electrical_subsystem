@@ -204,6 +204,416 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "GrinRearV3AllAxleHubMotor"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -11.938 13.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "GrinRearV3AllAxleHubMotor_0_1"
+			(polyline
+				(pts
+					(xy -8.89 8.89) (xy -21.59 8.89) (xy -21.59 -8.89) (xy -8.89 -8.89)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 0)
+				(radius 12.7)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -12.7) (xy 31.75 -12.7) (xy 31.75 12.7) (xy 0 12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "GrinRearV3AllAxleHubMotor_1_1"
+			(text "M"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 7.62 7.62)
+					)
+				)
+			)
+			(text "Grin Rear V3 All-Axle Hub Build"
+				(at 9.652 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "Hall GND is also common for NTC (10K)"
+				(at 11.938 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 26 97 255 1)
+					)
+				)
+			)
+			(text "12V OK"
+				(at 18.796 -1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 7 104 255 1)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 6.35 0)
+				(length 2.54)
+				(name "Prog"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 3.81 0)
+				(length 2.54)
+				(name "PAS_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 1.27 0)
+				(length 2.54)
+				(name "PAS_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 -1.27 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 -3.81 0)
+				(length 2.54)
+				(name "12V_in"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -24.13 -6.35 0)
+				(length 2.54)
+				(name "TorqueSig"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 11.43 180)
+				(length 2.54)
+				(name "Phase_A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 8.89 180)
+				(length 2.54)
+				(name "Phase_B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 6.35 180)
+				(length 2.54)
+				(name "Phase_C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 3.81 180)
+				(length 2.54)
+				(name "Thermistor"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 1.27 180)
+				(length 2.54)
+				(name "WheelSpeed"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -1.27 180)
+				(length 2.54)
+				(name "HallVCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -3.81 180)
+				(length 2.54)
+				(name "HallGND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -6.35 180)
+				(length 2.54)
+				(name "Hall_B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -8.89 180)
+				(length 2.54)
+				(name "Hall_C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 34.29 -11.43 180)
+				(length 2.54)
+				(name "Hall_C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "SiliXconSX18"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1037,54 +1447,6 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -20.32 10.16) (xy -20.32 8.89) (xy -8.89 8.89)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -20.32 7.62) (xy -20.32 6.35) (xy -8.89 6.35)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -20.32 -2.54) (xy -20.32 -3.81) (xy -8.89 -3.81)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -8.89 8.89) (xy -8.89 -6.35)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(rectangle
 				(start -7.62 8.89)
 				(end 12.7 -8.89)
@@ -1213,10 +1575,20 @@
 		)
 		(symbol "SiliXconVSD1display_1_1"
 			(text "This GND is isolated / optocoupler"
-				(at -6.096 -18.542 0)
+				(at -2.54 -17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
+						(color 0 27 255 1)
+					)
+				)
+			)
+			(text "All GND except LEDGND are commons"
+				(at 0.254 18.288 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 0 27 255 1)
 					)
 				)
 			)
