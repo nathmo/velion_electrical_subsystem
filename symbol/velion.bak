@@ -3489,8 +3489,8 @@
 				)
 			)
 			(circle
-				(center 0 10.16)
-				(radius 1.27)
+				(center 0 6.985)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3511,8 +3511,8 @@
 				)
 			)
 			(circle
-				(center 0 -8.89)
-				(radius 1.27)
+				(center 0 -6.985)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3547,7 +3547,7 @@
 			)
 		)
 		(symbol "SP13-2_1_1"
-			(text "WK13-2"
+			(text "SP13-2"
 				(at 6.858 -15.24 0)
 				(effects
 					(font
@@ -3687,8 +3687,8 @@
 		)
 		(symbol "SP13-3_0_1"
 			(circle
-				(center -7.62 -6.35)
-				(radius 1.27)
+				(center -6.35 -5.08)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3722,8 +3722,8 @@
 				)
 			)
 			(circle
-				(center 0 10.16)
-				(radius 1.27)
+				(center 0 7.62)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3768,8 +3768,8 @@
 				)
 			)
 			(circle
-				(center 7.62 -6.35)
-				(radius 1.27)
+				(center 5.715 -5.08)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3780,7 +3780,7 @@
 			)
 		)
 		(symbol "SP13-3_1_1"
-			(text "WK13-3"
+			(text "SP13-3"
 				(at 6.858 -15.24 0)
 				(effects
 					(font
@@ -3956,8 +3956,8 @@
 		)
 		(symbol "SP13-4_0_1"
 			(circle
-				(center -7.62 7.62)
-				(radius 1.27)
+				(center -6.35 6.35)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -3967,8 +3967,8 @@
 				)
 			)
 			(circle
-				(center -7.62 -7.62)
-				(radius 1.27)
+				(center -6.35 -6.35)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4037,8 +4037,8 @@
 				)
 			)
 			(circle
-				(center 7.62 7.62)
-				(radius 1.27)
+				(center 6.35 6.35)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4048,8 +4048,8 @@
 				)
 			)
 			(circle
-				(center 7.62 -7.62)
-				(radius 1.27)
+				(center 6.35 -6.35)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4060,7 +4060,7 @@
 			)
 		)
 		(symbol "SP13-4_1_1"
-			(text "WK13-4"
+			(text "SP13-4"
 				(at 6.858 -15.24 0)
 				(effects
 					(font
@@ -4272,8 +4272,8 @@
 		)
 		(symbol "SP13-5_0_1"
 			(circle
-				(center -8.89 -3.81)
-				(radius 1.27)
+				(center -7.62 -3.175)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4283,8 +4283,8 @@
 				)
 			)
 			(circle
-				(center -5.08 8.89)
-				(radius 1.27)
+				(center -4.445 7.62)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4329,8 +4329,8 @@
 				)
 			)
 			(circle
-				(center 0 -10.16)
-				(radius 1.27)
+				(center 0 -8.89)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4364,8 +4364,8 @@
 				)
 			)
 			(circle
-				(center 5.08 8.89)
-				(radius 1.27)
+				(center 4.445 7.62)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4375,8 +4375,8 @@
 				)
 			)
 			(circle
-				(center 8.89 -3.81)
-				(radius 1.27)
+				(center 7.62 -3.175)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4387,7 +4387,7 @@
 			)
 		)
 		(symbol "SP13-5_1_1"
-			(text "WK13-5"
+			(text "SP13-5"
 				(at 6.858 -15.24 0)
 				(effects
 					(font
@@ -4635,8 +4635,8 @@
 		)
 		(symbol "SP13-6_0_1"
 			(circle
-				(center -8.89 5.08)
-				(radius 1.27)
+				(center -6.35 4.445)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4646,8 +4646,8 @@
 				)
 			)
 			(circle
-				(center -8.89 -5.08)
-				(radius 1.27)
+				(center -6.35 -4.445)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4681,8 +4681,8 @@
 				)
 			)
 			(circle
-				(center 0 10.16)
-				(radius 1.27)
+				(center 0 8.89)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4703,8 +4703,8 @@
 				)
 			)
 			(circle
-				(center 0 -10.16)
-				(radius 1.27)
+				(center 0 -8.89)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4738,8 +4738,8 @@
 				)
 			)
 			(circle
-				(center 8.89 5.08)
-				(radius 1.27)
+				(center 6.35 4.445)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4749,8 +4749,8 @@
 				)
 			)
 			(circle
-				(center 8.89 -5.08)
-				(radius 1.27)
+				(center 6.35 -4.445)
+				(radius 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -4761,7 +4761,7 @@
 			)
 		)
 		(symbol "SP13-6_1_1"
-			(text "WK13-6"
+			(text "SP13-6"
 				(at 6.858 -15.24 0)
 				(effects
 					(font
