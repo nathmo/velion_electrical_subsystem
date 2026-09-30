@@ -645,13 +645,41 @@
         "uuid": "a2e56eab-f808-41ff-a4e6-e444dc5d086e"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BZ2-3,D12-22,FID1-6,SW10-32,H1-6,RV2-3,U87-88",
     "variants": []
   },
   "sheets": [
     [
       "a2e56eab-f808-41ff-a4e6-e444dc5d086e",
       "WiringHarness"
+    ],
+    [
+      "b0bf75f0-82e7-4f1a-b545-dfce873b865f",
+      "BMSinterface"
+    ],
+    [
+      "a836dd63-c7db-4e88-805d-3ec4bfbc0411",
+      "BackLightsControl"
+    ],
+    [
+      "96cf0c29-fc9b-416c-a581-498e795aec86",
+      "FrontLightsControl"
+    ],
+    [
+      "dba25263-6bd0-4b43-b2c5-8938cb0889c5",
+      "HumanInterfaceCircuits"
+    ],
+    [
+      "fa251b6b-af5e-44b8-974e-9786b7e47da8",
+      "InputPowerCircuits"
+    ],
+    [
+      "4d108341-b02d-4a49-868d-dbcaa689cc14",
+      "MCU"
+    ],
+    [
+      "49a0acb0-a3c6-4cd6-9611-619f0c985611",
+      "PowertrainInterface"
     ]
   ],
   "text_variables": {},
