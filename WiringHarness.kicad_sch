@@ -5816,6 +5816,16 @@
 		)
 		(uuid "d8194295-5e01-4d45-945c-269a85716a26")
 	)
+	(text "1.4m"
+		(exclude_from_sim no)
+		(at 327.152 924.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "003aed5f-9714-47b7-933d-d40fd3c2d424")
+	)
 	(text "mosfet trunk light : 2 pin"
 		(exclude_from_sim no)
 		(at 507.492 943.356 0)
@@ -6060,6 +6070,16 @@
 		)
 		(uuid "2ddb8085-2b7b-4b1d-b5ef-befdbf9ba009")
 	)
+	(text "0.7m"
+		(exclude_from_sim no)
+		(at 352.298 502.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2ec6227c-6599-4cd5-adc8-9d5f2777f494")
+	)
 	(text "85 CHF"
 		(exclude_from_sim no)
 		(at 153.67 213.868 0)
@@ -6153,6 +6173,16 @@
 			)
 		)
 		(uuid "3ef80dc6-30e2-4c66-9ecb-68d10af781cd")
+	)
+	(text "0.9m"
+		(exclude_from_sim no)
+		(at 393.446 351.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "40b67afb-d7c3-49c8-9f5d-a9ee418dd651")
 	)
 	(text "left blinker button"
 		(exclude_from_sim no)
@@ -6413,6 +6443,16 @@
 		)
 		(uuid "664f57cf-c44d-4383-a5ef-0f6ef5e61cc9")
 	)
+	(text "1.4m"
+		(exclude_from_sim no)
+		(at 153.67 849.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "671b7b70-c803-4ce0-a5df-04a302ddafc2")
+	)
 	(text "Side light Right"
 		(exclude_from_sim no)
 		(at 77.216 544.83 0)
@@ -6434,6 +6474,16 @@
 			)
 		)
 		(uuid "6ea1f1b8-2612-43b4-b7bd-232c88920bcd")
+	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 237.998 740.156 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "71980bff-5eb1-4cb3-a474-5a660a25862f")
 	)
 	(text "right blinker button"
 		(exclude_from_sim no)
@@ -6574,6 +6624,16 @@
 		)
 		(uuid "82890671-8255-4939-a7a0-21df7dddb61c")
 	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 210.058 711.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "82eed22c-fa4d-47d4-9937-c693815a55d0")
+	)
 	(text "Regen"
 		(exclude_from_sim no)
 		(at 100.584 669.798 0)
@@ -6654,6 +6714,16 @@
 		)
 		(uuid "90c0318f-9c13-488f-a065-af89bf866b7c")
 	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 155.448 809.244 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9113a79f-95a5-41f1-ba7c-e023b5e3eb34")
+	)
 	(text "RIGHT\n"
 		(exclude_from_sim no)
 		(at 238.506 44.958 0)
@@ -6713,6 +6783,16 @@
 			)
 		)
 		(uuid "9a475088-01fa-4f86-aa81-79d9ee5e176c")
+	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 210.312 774.446 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f0a38e4-17c5-40e0-b164-2b3516019af0")
 	)
 	(text "Led Position Optionnel Retro"
 		(exclude_from_sim no)
@@ -6774,6 +6854,16 @@
 		)
 		(uuid "a929aa59-f22e-4f6b-9ec2-b4ede1b37781")
 	)
+	(text "1.1m"
+		(exclude_from_sim no)
+		(at 358.902 581.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aaacb742-500b-4b35-b7cb-82364e2c9761")
+	)
 	(text "Z209BG P 00 A0 1000"
 		(exclude_from_sim no)
 		(at 111.506 869.696 0)
@@ -6804,6 +6894,16 @@
 		)
 		(uuid "abd3ef58-430e-448f-aa03-a92c40a6c61f")
 	)
+	(text "1.8m"
+		(exclude_from_sim no)
+		(at 271.018 889.508 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "abf48190-3122-4e4b-8523-f93476aee077")
+	)
 	(text "Assist A/B quadrature + click Input"
 		(exclude_from_sim no)
 		(at 644.398 719.582 0)
@@ -6813,6 +6913,16 @@
 			)
 		)
 		(uuid "ad2f53cf-9d2f-4ba6-a194-299a72f54df8")
+	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 353.822 123.444 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ae2f13b8-e39b-4e8c-8582-58d38268af27")
 	)
 	(text "bonus for speed limiter"
 		(exclude_from_sim no)
@@ -6853,6 +6963,16 @@
 			)
 		)
 		(uuid "b573de04-c61c-4722-b511-fa3f087525e4")
+	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 152.146 822.198 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b64975f9-f208-4546-880f-4e061cd2cd34")
 	)
 	(text "beam\nhorn\nblinker L\nblinker R\nGND"
 		(exclude_from_sim no)
@@ -6958,6 +7078,16 @@
 			)
 		)
 		(uuid "bed43f16-880d-40d2-b8f9-3667f15aa79f")
+	)
+	(text "2m"
+		(exclude_from_sim no)
+		(at 360.426 442.468 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c1a8c541-f393-45a1-ba29-a0e42d9005fa")
 	)
 	(text "2 quad input"
 		(exclude_from_sim no)
@@ -7319,6 +7449,16 @@
 			)
 		)
 		(uuid "f3409a7f-3dcb-4bff-8125-2c8cf8658b10")
+	)
+	(text "1.2m"
+		(exclude_from_sim no)
+		(at 368.3 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f3d56eb2-41e5-46c5-b327-bbfec3bfd215")
 	)
 	(text "Z209BG P 00 A0 1000"
 		(exclude_from_sim no)
