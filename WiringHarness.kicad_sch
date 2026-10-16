@@ -6383,6 +6383,17 @@
 		)
 		(uuid "5c15c775-d9aa-42b4-9657-cb874733d404")
 	)
+	(text "dont go trough the connector"
+		(exclude_from_sim no)
+		(at 178.054 281.686 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e5352ef-0d6a-427e-a4f9-d2259cb6013a")
+	)
 	(text "Aux USB-C"
 		(exclude_from_sim no)
 		(at 576.58 1100.328 0)
@@ -6963,6 +6974,17 @@
 			)
 		)
 		(uuid "b573de04-c61c-4722-b511-fa3f087525e4")
+	)
+	(text "NO FRENCH\nFIX FOR NEXT WEEK"
+		(exclude_from_sim no)
+		(at 170.18 -98.552 0)
+		(effects
+			(font
+				(size 20 20)
+			)
+			(justify left)
+		)
+		(uuid "b5bed596-036b-4a9d-9009-da4a0b320a28")
 	)
 	(text "2m"
 		(exclude_from_sim no)
